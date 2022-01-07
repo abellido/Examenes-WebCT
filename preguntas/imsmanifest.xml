@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="man00001"
+   xmlns:bb="http://www.blackboard.com/content-packaging/"><organizations/><resources><resource bb:file="res00001.dat"
+   bb:title="Categories" identifier="res00001" type="course/x-bb-category" xml:base="res00001"/><resource
+   bb:file="res00002.dat" bb:title="examen 2 2015" identifier="res00002" type="assessment/x-bb-qti-pool"
+   xml:base="res00002"/><resource bb:file="res00003.dat" bb:title="Assessment Creation Settings" identifier="res00003"
+   type="course/x-bb-courseassessmentcreationsettings" xml:base="res00003"/><resource bb:file="res00004.dat"
+   bb:title="LearnRubrics" identifier="res00004" type="course/x-bb-rubrics" xml:base="res00004"/><resource
+   bb:file="res00005.dat" bb:title="CSResourceLinks" identifier="res00005" type="course/x-bb-csresourcelinks"
+   xml:base="res00005"/><resource bb:file="res00006.dat" bb:title="CourseRubricAssociation" identifier="res00006"
+   type="course/x-bb-crsrubricassocation" xml:base="res00006"/><resource bb:file="res00007.dat"
+   bb:title="201516-2260005-226-EC" identifier="res00007" type="resource/x-mhhe-course-cx" xml:base="res00007"/></resources></manifest>

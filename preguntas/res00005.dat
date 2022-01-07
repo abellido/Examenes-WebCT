@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cms_resource_link_list><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_57161_1</courseId><parentId
+   parent_data_type="asiobject">_685960_1</parentId><resourceId><![CDATA[5170807_1]]></resourceId><storageType><![CDATA[PUBLIC]]></storageType><resourceGuid><![CDATA[468e5171b69c4566839097dae124101e]]></resourceGuid><id
+   data-type="blackboard.cms.platform.contentsystem.data.CSResourceLink">_2191771_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_57161_1</courseId><parentId
+   parent_data_type="asiobject">_685960_1</parentId><resourceId><![CDATA[5170815_1]]></resourceId><storageType><![CDATA[PUBLIC]]></storageType><id data-type="blackboard.cms.platform.contentsystem.data.CSResourceLink">_2191781_1</id></cms_resource_link></cms_resource_link_list>

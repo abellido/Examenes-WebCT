@@ -1,0 +1,22 @@
+#Bb PackageInfo Property File
+#Fri Oct 23 20:06:43 CEST 2015
+java.class.path=/usr/local/blackboard/apps/service-wrapper/lib/wrapper.jar\:/usr/local/java/lib/tools.jar\:/usr/local/blackboard/system/build/clover-ant/lib/clover.jar\:/usr/local/blackboard/apps/tomcat/lib/bb-tomcat-bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/tomcat-juli.jar
+cx.config.course.id=201516-2260005-226-EC
+java.vendor=Oracle Corporation
+os.name=Linux
+os.arch=amd64
+java.home=/usr/local/jdk1.7.0_79/jre
+db.product.name=Oracle
+cx.package.info.version=6.0
+os.version=2.6.18-194.26.1.el5
+cx.config.full.value=CxConfig{operation\=EXPORT, courseid\=201516-2260005-226-EC, package\=/gpfs/bbpro/content/vi/BBLEARN/sessions/8/3/8/1/5/2/2/7/session/Pool_ExportFile_201516-2260005-226-EC_examen 2 2015.zip, logger\=CxLogger{logs\=[Log{name\=/gpfs/bbpro/content/vi/BBLEARN/sessions/8/3/8/1/5/2/2/7/session/Pool_ExportFile_201516-2260005-226-EC_examen 2 2015.log, verbosity\=default}, Log{name\=STDOUT, verbosity\=default}], logHooks\=[]}, resource_type_inclusions\=[], area_inclusions\=[RUBRIC, ALIGNMENTS], area_exclusions\=[ALL], object_inclusions\={POOL\=[_685950_1]}, object_exclusions\={}, features\={CreateOrg\=false, Bb5LinkToBrokenImageFix\=true, AlternateAssessmentCsLinks\=false, ImportCourseStructure\=false, ArchiveUserPasswords\=false}, strHostName\=null, isCommandLineRequest\=false, isCourseConversion\=false, eventHandlers\=[]}
+cx.config.package.name=/gpfs/bbpro/content/vi/BBLEARN/sessions/8/3/8/1/5/2/2/7/session/Pool_ExportFile_201516-2260005-226-EC_examen 2 2015.zip
+db.product.version=Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production\nWith the Partitioning, OLAP, Data Mining and Real Application Testing options
+db.driver.name=Oracle JDBC driver
+cx.config.operation=blackboard.apps.cx.CxConfig$Operation\:EXPORT
+java.version=1.7.0_79
+cx.config.package.identifier=17430adad0cd4df7bcd37cb60765d2ea
+db.driver.version=11.2.0.2.0
+java.default.locale=es_ES
+app.release.number=9.1.140152.0
+cx.config.logs=[Log{name\=/gpfs/bbpro/content/vi/BBLEARN/sessions/8/3/8/1/5/2/2/7/session/Pool_ExportFile_201516-2260005-226-EC_examen 2 2015.log, verbosity\=default}, Log{name\=STDOUT, verbosity\=default}]
